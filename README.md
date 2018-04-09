@@ -1,3 +1,6 @@
+Fait par Alex et Jordane 
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
